@@ -2,19 +2,6 @@
 
 < [Back to Chapter 1](./Exercise1_Chapter1.md)
 
-## Table of contents
-
-<!-- TOC -->
-
-- [Chapter 2: View the tables in Data Preview in the Database Explorer]()
-  - [Table of contents](#table-of-contents)
-  - [Open HDI Container](#open-hdi-container)
-  - [Database Explorer](#database-explorer)
-  - [Explore table data](#explore-table-data)
-  - [What you achieved in this chapter:](#what-you-achieved-in-this-chapter)
-
-<!-- /TOC -->
-
 ## Open HDI Container
 
 To view your deployed objects in HANA Cloud, click on **Open HDI container** next to the rocket.

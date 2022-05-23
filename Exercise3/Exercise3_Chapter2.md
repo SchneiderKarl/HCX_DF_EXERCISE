@@ -2,17 +2,29 @@
 
 < [Back to Chapter 1](./Exercise3_Chapter1.md)
 
-## Table of contents
+## Open HDI Container in the SAP HANA Database Explorer
 
-<!-- TOC -->
+To view your deployed database objects in SAP HANA Cloud, click on **Open HDI container** next to the rocket.
 
-- [Chapter 2: Explore the Anonymized Report](#chapter-2-explore-the-anonymized-report)
-  - [Table of contents](#table-of-contents)
-  - [Preview the anonymized report](#preview-the-anonymized-report)
-  - [Explore the report and gain first Insights](#explore-the-report-and-gain-first-insights)
-  - [What you achieved in this chapter:](#what-you-achieved-in-this-chapter)
+![img](./Images/Exercise1_027.png)
 
-<!-- /TOC -->
+## Database Explorer
+
+You will be asked to enter your username. Insert the Platform Username ``platformEA1811`` and click on **Next**.
+
+![img](./Images/Exercise1_027_1.png)
+
+The Database Explorer opens, in which you can see all the HANA objects currently available in your HDI container. As you can see from the database's name, you are currently within your recently created HDI container. Click on **Synonyms** to see the tables you are accessing through the user-provided service (which you created in Chapter 1).
+
+![img](./Images/IMG-002.png.png)
+
+## Explore table data
+
+Right-Click on the **INCIDENT_ARCHIVE_VT_SYN** object and select **Open Data** to get an overview about the incidents, that happened in 2020 and are stored in the data lake. 
+
+![img](./Images/Exercise1_029.png)
+
+To explore all tables, proceede in the same way with the other synonym objects.
 
 ## Preview the anonymized report
 

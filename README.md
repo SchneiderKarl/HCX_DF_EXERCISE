@@ -1,21 +1,5 @@
 # SAP HANA Cloud Experience - Hands-On
 
-## Table of contents
-
-<!-- TOC -->
-
-- [SAP HANA Cloud Experience - Hands-On](#sap-hana-cloud-experience---hands-on)
-  - [Table of contents](#table-of-contents)
-  - [Script Overview](#script-overview)
-    - [Use Case](#use-case)
-  - [Exercise Map](#exercise-map)
-    - [Exercise 1: SAP Business Application Studio and Database Explorer](#exercise-1-sap-business-application-studio-and-database-explorer)
-    - [Exercise 2: Calculation Views](#exercise-2-calculation-views)
-    - [Exercise 3: Anonymization](#exercise-3-anonymization)
-
-
-<!-- /TOC -->
-
 ## Script Overview
 
 ### Use Case

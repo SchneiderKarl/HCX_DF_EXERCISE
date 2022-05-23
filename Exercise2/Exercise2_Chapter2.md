@@ -1,18 +1,6 @@
 # Chapter 2: Preview the Incident Report
 
-< [Back to Chapter 3](./Exercise2_Chapter1.md)
-
-## Table of contents
-
-<!-- TOC -->
-
-- [Chapter 2: Preview the Incident Report](#chapter-2-preview-the-incident-report)
-  - [Table of contents](#table-of-contents)
-  - [Preview the data](#preview-the-data)
-  - [Find some insights](#find-some-insights)
-  - [What you achieved in this chapter:](#what-you-achieved-in-this-chapter)
-
-<!-- /TOC -->
+< [Back to Chapter 1](./Exercise2_Chapter1.md)
 
 ## Preview the data
 Switch to the **Database Explorer** to see the sensitive data you created. Select **Column Views** and right-click on **CV_INCIDENT_REPORT**. Click on **Open Data** to see the Incident Report with all its details. 

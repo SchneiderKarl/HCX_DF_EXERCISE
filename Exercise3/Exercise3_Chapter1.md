@@ -2,18 +2,6 @@
 
 < [Back to Exercise 3](./README.md)
 
-## Table of contents
-
-<!-- TOC -->
-
-- [Chapter 1: Anonymize the Incident Report](#chapter-1-anonymize-the-incident-report)
-  - [Table of contents](#table-of-contents)
-  - [Create a new View](#create-a-new-view)
-  - [Deploy to HANA Cloud](#deploy-to-hana-cloud)
-  - [What you achieved in this chapter:](#what-you-achieved-in-this-chapter)
-
-<!-- /TOC -->
-
 ## Create a new View
 
 1. Switch back to BAS. Create a **New File** under the **View** folder and name it: ``V_INCIDENT_REPORT_ANONYMIZATION.hdbview``

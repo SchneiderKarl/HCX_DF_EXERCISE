@@ -2,22 +2,6 @@
 
 < [Back to Exercise 2](./README.md)
 
-## Table of contents
-
-<!-- TOC -->
-
-- [Chapter 1: Create the Incident Report](#chapter-1-create-the-incident-report)
-  - [Table of contents](#table-of-contents)
-  - [Create a new Calculation View](#create-a-new-calculation-view)
-  - [Set up the projection nodes](#set-up-the-projection-nodes)
-  - [Set up the aggregation node](#set-up-the-aggregation-node)
-  - [Set up the join node](#set-up-the-join-node)
-  - [Set up the semantics node](#set-up-the-semantics-node)
-  - [Deploy to HANA Cloud](#deploy-to-hana-cloud)
-  - [What you achieved in this chapter:](#what-you-achieved-in-this-chapter)
-
-<!-- /TOC -->
-
 ## Create a new Calculation View
 
 1. Switch back to BAS. Create a **New** **File** under the **View** folder and name it: ``CV_INCIDENT_REPORT.hdbcalculationview`` 

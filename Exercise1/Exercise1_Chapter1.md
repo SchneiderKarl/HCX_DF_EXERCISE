@@ -2,30 +2,13 @@
 
 < [Back to Exercise 1](./README.md)
 
-## Table of contents
-
-<!-- TOC -->
-
-- [Chapter 1: Access SAP Business Application Studio and create a project](#chapter-1-access-sap-business-application-studio-and-create-a-project)
-  - [Table of contents](#table-of-contents)
-  - [Access Business Application Studio](#access-business-application-studio)
-  - [Create Development Space](#create-development-space)
-  - [Set Cloud Foundry Endpoint](#set-cloud-foundry-endpoint)
-  - [Import the project](#import-the-project)
-  - [Open the project](#open-the-project)
-  - [Expand SAP HANA Projects tab](#expand-sap-hana-projects-tab)
-  - [Bind User-Provided Service](#bind-user-provided-service)
-  - [Bind HDI Container](#bind-hdi-container)
-  - [Deploy the project to HANA Cloud](#deploy-the-project-to-hana-cloud)
-  - [What you achieved in this chapter:](#what-you-achieved-in-this-chapter)
-
-<!-- /TOC -->
-
 ## Access Business Application Studio
 
 1) Click [here](https://xaea1811-cf-eu10.eu10cf.applicationstudio.cloud.sap/index.html) to open the Business Application Studio (BAS for short). 
 
 2) Please use the P-User with the initial password  `Initial1` that was included in the email to log in to BAS. You will be prompted to change your initial password.
+
+   ![img](./Images/IMG-000.png)
 
 ## Create Development Space
 
@@ -135,6 +118,10 @@ To access data that resides outside of the HDI Container, we will need to use a 
 4) Building your HDI container initially takes around one and a half minutes.
 
    ![img](./Images/Exercise1_025.png)
+
+5) If this message pops up please press **Enable**.
+
+   ![img](./Images/IMG-001.png)
 
 ## Deploy the project to HANA Cloud
 
