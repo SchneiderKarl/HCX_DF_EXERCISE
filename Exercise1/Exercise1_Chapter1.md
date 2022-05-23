@@ -23,7 +23,8 @@
 
 ## Access Business Application Studio
 
-Click [here](link|bas) to open the Business Application Studio (BAS for short). 
+1) Click [here](https://xaea1811-cf-eu10.eu10cf.applicationstudio.cloud.sap/index.html) to open the Business Application Studio (BAS for short). 
+2) Use the P-User with the initial password `Initial1` to log on.
 
 ## Create Development Space
 
@@ -31,7 +32,7 @@ Click [here](link|bas) to open the Business Application Studio (BAS for short).
 
    ![img](./Images/Exercise1_001.png)
 
-2) Give your Development Space the Name **HXC** and make sure to select **SAP HANA Native Application** as application. You do not need to add any Additional SAP Extension. Click on **Create Dev Space**.
+2) Give your Development Space the Name **HCX** and make sure to select **SAP HANA Native Application** as application. You do not need to add any Additional SAP Extension. Click on **Create Dev Space**.
 
    ![img](./Images/Exercise1_002.png)
 
