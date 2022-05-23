@@ -24,7 +24,8 @@
 ## Access Business Application Studio
 
 1) Click [here](https://xaea1811-cf-eu10.eu10cf.applicationstudio.cloud.sap/index.html) to open the Business Application Studio (BAS for short). 
-2) Use the P-User with the initial password `Initial1` to log on.
+
+2) Please use the P-User with the initial password  `Initial1` that was included in the email to log in to BAS. You will be prompted to change your initial password.
 
 ## Create Development Space
 
