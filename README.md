@@ -53,10 +53,10 @@ The image above shows the explained archticture for this use case.
 ## Exercise Map
 
 ### Exercise 1: SAP Business Application Studio and Database Explorer
-[Go to Exercise 1](../108_TA_BTP-Extension_HCX-BAS-DBX/README.md) >
+[Go to Exercise 1](./Exercise1/README.md) >
 
 ### Exercise 2: Calculation Views
-[Go to Exercise 2](../109_TA_BTP-Extension_HCX-CalcViews/README.md) >
+[Go to Exercise 2](./Exercise2/README.md) >
 
 ### Exercise 3: Anonymization
-[Go to Exercise 3](../110_TA_BTP-Extension_HCX-Anonymization/README.md) >
+[Go to Exercise 3](./Exercise3/README.md) >

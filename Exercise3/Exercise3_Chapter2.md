@@ -46,4 +46,4 @@ Maybe you can find a group of employees opening more incidents than others by se
 
 < [Back to start](./README.md)
 
-< [Back to Hands-On Overview](../199_TA_BTP-Extension_HCX_Appendix/Overview.md)
+< [Back to Hands-On Overview](../README.md)

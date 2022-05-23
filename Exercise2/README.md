@@ -1,6 +1,6 @@
 # Exercise 2: Calculation Views
 
-< [Back to Hands-On Overview](../199_TA_BTP-Extension_HCX_Appendix/Overview.md)
+< [Back to Hands-On Overview](../README.md)
 
 ## Table of contents
 
