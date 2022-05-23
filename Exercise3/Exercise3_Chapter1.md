@@ -4,7 +4,7 @@
 
 ## Create a new View
 
-1. Switch back to BAS. Create a **New File** under the **View** folder and name it: ``V_INCIDENT_REPORT_ANONYMIZATION.hdbview``
+1. Create a **New File** under the **View** folder and name it: ``V_INCIDENT_REPORT_ANONYMIZATION.hdbview``
 
    ![img](./Images/Exercise3_001.png)
 
@@ -29,12 +29,5 @@
 ## Deploy to HANA Cloud
 
 **Deploy** the created view to HANA by clicking on the **rocket symbol**.
-
-
-## What you achieved in this chapter:
-
-- By executing the provided code snippet, you anonymize the Calculation View of your Incident Report using the integrated k-anonymity algorithm in HANA Cloud.
-- If an attribute is a quasi-identifier, it will be anonymized using the predefined hierarchies or functions.
-- K in the context defines the smallest possible group with the same quasi-identifiers.
 
 [Go to Chapter 2](./Exercise3_Chapter2.md) >

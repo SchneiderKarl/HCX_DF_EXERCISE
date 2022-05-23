@@ -16,7 +16,7 @@ Click on **Sign in with default identity provider** and paste the platform Usern
 
 The Database Explorer opens, in which you can see all the HANA objects currently available in your HDI container. As you can see from the database's name, you are currently within your recently created HDI container. Click on **Synonyms** to see the tables you are accessing through the user-provided service (which you created in Exercise 1).
 
-![img](./Images/IMG-002.png)
+![img](./Images/Exercise1_028.png)
 
 ## Explore table data
 

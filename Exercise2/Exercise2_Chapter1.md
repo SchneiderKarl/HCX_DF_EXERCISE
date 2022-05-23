@@ -4,7 +4,7 @@
 
 ## Create a new Calculation View
 
-1. Switch back to BAS. Create a **New** **File** under the **View** folder and name it: ``CV_INCIDENT_REPORT.hdbcalculationview`` 
+1. Create a **New** **File** under the **View** folder and name it: ``CV_INCIDENT_REPORT.hdbcalculationview`` 
 
    ![img](./Images/Exercise2_021.png)
     
