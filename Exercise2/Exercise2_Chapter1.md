@@ -86,10 +86,5 @@ Deploy the Calculation View by clicking on the **rocket**.
    
 ![img](./Images/Exercise2_036.png)
 
-## What you achieved in this chapter:
-
-- You created an Incident Report that contains all employee incidents from 2021 and the years before. Right now it is possible to see all the sensitive data. 
-- To stay DSGVO conform, it is necessary to anonymize the data before reporting on it.
-
-[Go to Chapter 2](./Exercise2_Chapter2.md) >
+[Continue to next exercise](../Exercise3/README.md) >
 

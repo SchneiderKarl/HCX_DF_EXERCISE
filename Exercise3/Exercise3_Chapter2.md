@@ -10,13 +10,13 @@ To view your deployed database objects in SAP HANA Cloud, click on **Open HDI co
 
 ## Database Explorer
 
-You will be asked to enter your username. Insert the Platform Username ``platformEA1811`` and click on **Next**.
+Click on **Sign in with default identity provider** and paste the platform Username ``platformEA1811`` and the password `Welcomek9cG0` and click on **Next**.
 
-![img](./Images/Exercise1_027_1.png)
+![img](./Images/IMG-002.png)
 
-The Database Explorer opens, in which you can see all the HANA objects currently available in your HDI container. As you can see from the database's name, you are currently within your recently created HDI container. Click on **Synonyms** to see the tables you are accessing through the user-provided service (which you created in Chapter 1).
+The Database Explorer opens, in which you can see all the HANA objects currently available in your HDI container. As you can see from the database's name, you are currently within your recently created HDI container. Click on **Synonyms** to see the tables you are accessing through the user-provided service (which you created in Exercise 1).
 
-![img](./Images/IMG-002.png.png)
+![img](./Images/IMG-002.png)
 
 ## Explore table data
 
@@ -26,9 +26,36 @@ Right-Click on the **INCIDENT_ARCHIVE_VT_SYN** object and select **Open Data** t
 
 To explore all tables, proceede in the same way with the other synonym objects.
 
+
+## Preview the raw data
+
+Select **Column Views** and right-click on **CV_INCIDENT_REPORT**. Click on **Open Data** to see the Incident Report with all its details. 
+
+![img](./Images/Exercise2_037.png)
+    
+![img](./Images/Exercise2_038.png)
+    
+Since the data you see is sensitive, we will have anonymized the data so further business users can work with it and get insights.
+
+## Find some insights
+
+Now it's your turn to find out some insights of the created report. 
+
+1) Right-click on **CV_INCIDENT_REPORT** and select **Generate SELECT Statement**.
+2) Leave the SEQUENCE and the identifier columns (EMPLOYEE_ID, LASTNAME, FIRSTNAME) out of the statement to find some groups which are opening more tickets than others. The image below shows you an example.
+
+   ![img](./Images/Exercise2_039.png)
+   
+   This results into the following.
+   
+   ![img](./Images/Exercise2_040.png)
+   
+   You can see that different office locations result in different incidents per employee. You can exchange the office column to other quasi-identifiers to check if they provide also different incidents per employee.
+
+
 ## Preview the anonymized report
 
-1. Switch to the **Database Explorer** and open your **HDI Container**. Select **Views** in the catalog and right-click on **V_INCIDENT_REPORT_ANONYMIZATION**. Select the **Generate SELECT Statement**. This opens a SQL Console with the statement.
+1. Select **Views** in the catalog and right-click on **V_INCIDENT_REPORT_ANONYMIZATION**. Select the **Generate SELECT Statement**. This opens a SQL Console with the statement.
 
    ![img](./Images/Exercise3_003.png)
 

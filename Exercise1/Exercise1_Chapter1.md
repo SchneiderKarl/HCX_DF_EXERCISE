@@ -129,11 +129,5 @@ Click on the rocket symbol to **deploy** the design-time objects to the HANA run
 
 ![img](./Images/Exercise1_026.png)
 
-## What you achieved in this chapter:
-
-- You successfully connected your BAS with the Business Technology Platform, imported a project, and  deployed it.
-- You connect your HDI Container to the User Provided  Service **HCX_SCHEMA_UPS** allowing you to access database objects outside your  HDI Contianer.
-- You created an HDI Container Instance in HANA  Cloud, which you can also find in the BTP Service Instance area.
-
-[Go to Chapter 2](./Exercise1_Chapter2.md) >
+[Continue to next exercise](../Exercise2/README.md) >
 
