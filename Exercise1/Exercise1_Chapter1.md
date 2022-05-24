@@ -107,19 +107,24 @@ To access data that resides outside of the HDI Container, we will need to use a 
 
    ![img](./Images/Exercise1_022.png)
 
-2) The command line at the top should pop up. Click on **+ Create a new service** **instance**.
+2) The command line at the top should pop up. Click on **+ Create a new service instance**.
 
-   ![img](./Images/Exercise1_023.png)
+   ![img](./Images/IMG-029.png)
 
 3) Behind the given name add a **-YOURNAME** and hit enter.
 
    ![img](./Images/Exercise1_024.png)
 
-4) Building your HDI container initially takes around one and a half minutes.
+
+4) Select the first **hdi-shared** option.
+
+   ![img](./Images/IMG-030.png)
+
+5) Building your HDI container initially takes around one and a half minutes.
 
    ![img](./Images/Exercise1_025.png)
 
-5) If this message pops up please press **Enable**.
+6) If this message pops up please press **Enable**.
 
    ![img](./Images/IMG-001.png)
 
