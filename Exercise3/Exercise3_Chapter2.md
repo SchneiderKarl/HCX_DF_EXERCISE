@@ -75,9 +75,6 @@ Maybe you can find a group of employees opening more incidents than others by se
 
 ![img](./Images/Exercise3_006.png)
 
-## What you achieved in this chapter:
-
-- No individual can be identified via the remaining information, but it is still possible to set up optimization processes based on the data. 
 
 **Congratulations! You finished the Hands-On Exercises.**
 
